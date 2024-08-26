@@ -1,4 +1,4 @@
-Sistema criptador e descriptador de mensagens. 
+Sistema encriptador e descriptador de mensagens. 
 
 ![image](https://github.com/user-attachments/assets/e48962b8-a588-4744-80ad-ee48ae14dbad)
 
